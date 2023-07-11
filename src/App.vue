@@ -5,7 +5,7 @@
                    :indicatorsTemplate="'indicatorsTemplate'"
                   :previousButtonTemplate="'previousTemplate'"
                   :nextButtonTemplate="'nextTemplate'"
-                  :animationEffect="Fade"
+                  
                   :showPlayButton="true"
                   :playButtonTemplate="'playTemplate'"
                   >
